@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Keven do Nascimento Carneiro",
+    "label": "C# Software Engineer using Amazon Web Services Infrastructure",
+    "picture": "",
+    "email": "keven.ncarneiro@gmail.com",
+    "phone": "+55 (85) 997-664-469",
+    "website": "http://kevencarneiro.github.io",
+    "summary": "Software Engineer that works with C# .NET programming language, actually rewriting a existing financial software into CQRS pattern, using concepts like SOLID, TDD, IoC; Using Cloud based infrastructure using Amazon Web Services, using services like EC2, S3, RDS, Simple Queue Service, Elastic Beanstalk, Lambda, CloudWatch and Continuous Integration with TeamCity and Cake (C# Make); Previous experiences involves administrating Linux production servers, tuning SQL Queries, Dynamics CRM configuration and implantation, CMS system administration and configuration.",
+    "location": {
+      "city": "Fortaleza",
+      "countryCode": "BR",
+      "region": "Ceará"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "keven-carneiro-b24a0257",
+        "url": "https://www.linkedin.com/in/keven-carneiro-b24a0257"
+      },
+      {
+        "network": "GitHub",
+        "username": "kevencarneiro",
+        "url": "https://github.com/kevencarneiro"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fortes Tecnologia em Sistemas",
+      "position": "Software Engineer",
+      "website": "http://www.grupofortes.com.br",
+      "startDate": "2017-03",
+      "endDate": "",
+      "summary": "Working in a Financial Software, written in C# ASP.NET MVC and WebApi, using TeamCity as Continuous Integration tool, using Aurelia with Stylus in front-end stack, hosted using the Amazon Web Services infrastructure.",
+      "highlights": []
+    },
+    {
+      "company": "SAS Plataforma de Educação",
+      "position": "Web Developer",
+      "website": "http://www.portalsas.com.br",
+      "startDate": "2015-02",
+      "endDate": "2017-03",
+      "summary": "Developing and maintaining Web-based systems written in C# (ASP.NET MVC 5 and Web API 2), PHP and Java with SQL Server, MySQL and PostgreSQL databases, cloud servers configuration, cache dynamic-generated content as static pages, configuring digital certificates, log analysis, SEO strategies, Google Analytics configuration with custom variables.",
+      "highlights": []
+    },
+    {
+      "company": "SAS Plataforma de Educação",
+      "position": "Web Designer",
+      "website": "http://www.portalsas.com.br",
+      "startDate": "2014-06",
+      "endDate": "2015-02",
+      "summary": "Responsible for updating the CMS, development of hotsites and managing Microsoft Dynamics CRM, also Web programming with C# Web Api, PHP, MySQL as database and Joomla as CMS.",
+      "highlights": []
+    },
+    {
+      "company": "SAS Plataforma de Educação",
+      "position": "Comunication Intern",
+      "website": "http://www.portalsas.com.br",
+      "startDate": "2014-04",
+      "endDate": "2014-06",
+      "summary": "Create and send custom HTML Emails and statistical analysis of those e-mails (read rate, open rate, bounce rate, etc).",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade de Fortaleza",
+      "area": "Systems Analysis and Development, Information Technology",
+      "studyType": "Technology",
+      "startDate": "2016-08",
+      "endDate": "",
+      "courses": [
+        "Java Development",
+        "Web Development",
+        "Security Fundamentals",
+        "Project Management",
+        "Android Development"
+      ]
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+      "area": "Telematics Technology, Information Technology",
+      "studyType": "Technology",
+      "startDate": "2013-01",
+      "endDate": "2016-06",
+      "courses": [
+        "Eletricity",
+        "Eletronics",
+        "Computer Architecture",
+        "Data Communication",
+        "Computer Networks",
+        "Microcontrollers",
+        "FPGA",
+        "UML"
+      ]
+    },
+    {
+      "institution": "EEEP Mário Alencar",
+      "area": "Computer Technician with emphasis in Software Development, Information Technology",
+      "studyType": "Technician",
+      "startDate": "2010-02",
+      "endDate": "2013-01",
+      "courses": [
+        "Programming Logic",
+        "Object-Oriented Programming",
+        "Systems Analysis",
+        "Relational Databases",
+        "Computer Networks",
+        "Database Design and Queries",
+        "UML",
+        " Web Programming with PHP, HTML and MySQL"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "C#",
+        ".NET Core",
+        "ASP.NET Web Api",
+        "TypeScript",
+        "Test Driven Development",
+        "Inversion of Control",
+        "Dependency Injector"
+      ]
+    },
+    {
+      "name": "Relational Databases",
+      "level": "",
+      "keywords": [
+        "SQL Server",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "Master",
+      "keywords": [
+        "EC2",
+        "Simple Queue Service",
+        "RDS",
+        "S3",
+        "Elastic Beanstalk",
+        "Route53"
+      ]
+    },
+    {
+      "name": "Web Server Administration",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Apache",
+        "NGINX"
+      ]
+    },
+    {
+      "name": "Dynamics CRM",
+      "level": "",
+      "keywords": [
+        "Configuration",
+        "Customization"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": [
+        "TeamCity",
+        "Travis CI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Brazilian Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ]
+}

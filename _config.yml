@@ -18,7 +18,7 @@ email: keven.ncarneiro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Developing a Financial Software in Fortes Tecnologia as a C# Software Engineer and using Cloud-based Infrastructure
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kevencarneiro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kevencarneiro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kevencarneiro
 google_analytics: UA-113217226-1
 author:
@@ -31,6 +31,7 @@ markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -6,7 +6,7 @@
     "email": "keven.ncarneiro@gmail.com",
     "phone": "+55 (85) 997-664-469",
     "website": "http://kevencarneiro.github.io",
-    "summary": "Software Engineer that works with C# .NET programming language, actually rewriting a existing financial software into CQRS pattern, using concepts like SOLID, TDD, IoC; Using Cloud based infrastructure using Amazon Web Services, using services like EC2, S3, RDS, Simple Queue Service, Elastic Beanstalk, Lambda, CloudWatch and Continuous Integration with TeamCity and Cake (C# Make); Previous experiences involves administrating Linux production servers, tuning SQL Queries, Dynamics CRM configuration and implantation, CMS system administration and configuration.",
+    "summary": "Software Engineer that works with C# .NET programming language, AWS Certified Solutions Architect, actually rewriting a existing financial software into CQRS pattern, using concepts like SOLID, TDD, IoC; Using Cloud based infrastructure using Amazon Web Services, using services like EC2, S3, RDS, Simple Queue Service, Elastic Beanstalk, Lambda, CloudWatch and Continuous Integration with TeamCity and Cake (C# Make); Previous experiences involves administrating Linux production servers, tuning SQL Queries, Dynamics CRM configuration and implantation, CMS system administration and configuration.",
     "location": {
       "city": "Fortaleza",
       "countryCode": "BR",
@@ -139,6 +139,7 @@
       "name": "Amazon Web Services",
       "level": "Master",
       "keywords": [
+        "AWS Certified Solutions Architect - Associate",
         "EC2",
         "Simple Queue Service",
         "RDS",
